@@ -24,7 +24,7 @@ Gem::Specification.new do |s|
   s.extensions = %w(ext/unicorn_http/extconf.rb)
 #  s.extra_rdoc_files = extra_rdoc_files(manifest)
 #  s.files = manifest
-  s.homepage = Wrongdoc.config[:rdoc_url]
+  #s.homepage = Wrongdoc.config[:rdoc_url]
 #  s.rdoc_options = rdoc_options
   s.rubyforge_project = %q{mongrel}
 #  s.test_files = test_files
