@@ -14,7 +14,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{unicorn}
-  s.version = "4.6.3"#ENV["VERSION"].dup
+  s.version = "4.6.4"#ENV["VERSION"].dup
   s.authors = "Eric Wong"
   s.summary = "Fork of Unicorn"
   s.date = Time.now.utc.strftime('%Y-%m-%d')
