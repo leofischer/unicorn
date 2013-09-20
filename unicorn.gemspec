@@ -15,10 +15,10 @@
 Gem::Specification.new do |s|
   s.name = %q{unicorn}
   s.version = "4.6.3"#ENV["VERSION"].dup
-  #s.authors = ["#{name} hackers"]
-#  s.summary = summary
+  s.authors = "Eric Wong"
+  s.summary = "Fork of Unicorn"
   s.date = Time.now.utc.strftime('%Y-%m-%d')
-#  s.description = readme_description
+  s.description = "Unresolved errors"
   s.email = %q{mongrel-unicorn@rubyforge.org}
   s.executables = %w(unicorn unicorn_rails)
   s.extensions = %w(ext/unicorn_http/extconf.rb)
